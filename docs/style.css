@@ -5,8 +5,7 @@ fieldset{
   padding:10px;
 }
 body::before {
-  background-image:url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg"
-);
+  background-image:url("assets/beans.jpg");
   opacity: 1;
   content: "";
   position: fixed;
