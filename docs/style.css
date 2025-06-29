@@ -30,6 +30,18 @@ main{
   padding-top:10px;
 
 }
+footer{
+  text-align:center;
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: rgba(222, 184, 135, 0.85);
+  width:580px;
+  margin:auto;
+  padding:10px;
+}
+a{
+  color:#6F4E37  
+}
 h1{
   font-size: 45px;
   text-align:center;
@@ -99,3 +111,4 @@ textarea{
 #name-label,#email-label,#number-label,#dropdown-label,#recommend-label,#tried,#suggest{
   margin-left:50px;
 }
+
